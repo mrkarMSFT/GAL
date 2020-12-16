@@ -1,0 +1,7 @@
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\bin\Debug\GAL.exe.config
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\bin\Debug\GAL.exe
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\bin\Debug\GAL.pdb
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\obj\Debug\GAL.csprojAssemblyReference.cache
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\obj\Debug\GAL.csproj.CoreCompileInputs.cache
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\obj\Debug\GAL.exe
+C:\Users\mrkar.FAREAST\source\repos\GAL\GAL\obj\Debug\GAL.pdb
